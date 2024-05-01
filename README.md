@@ -1,7 +1,7 @@
 <h1>Creek Cafe Drink Ordering App</h1>
 Welcome to the Creek Cafe Drink Ordering App! This Android application allows users to conveniently order drinks from Creek Cafe. Users can add drinks to their cart, place orders, view their order history, and learn more about Creek Cafe.
 
-Features
+<h2>Features</h2>
 - Drink Ordering: Browse through the available drinks and add them to your cart.
 
 - Cart Management: Review the drinks in your cart before placing your order.

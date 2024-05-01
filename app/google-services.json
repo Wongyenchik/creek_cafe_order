@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649615660449",
+    "project_id": "creek-cafe-46f89",
+    "storage_bucket": "creek-cafe-46f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649615660449:android:f9fbd59da4ead9a85867e0",
+        "android_client_info": {
+          "package_name": "com.example.creekcafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLfGclYq0eKuynp-2XzoylH54xpSrWztE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
